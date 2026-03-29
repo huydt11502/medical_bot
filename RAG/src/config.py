@@ -1,11 +1,13 @@
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv()
 
 class Config:
-    # SỬA ĐƯỜNG DẪN LẠI NHA 
-    BASE_DIR = r"D:\Storage\huy_chabot\huy_chabot\rag_project"
+    # Default to the RAG folder root so the project runs on any machine.
+    PROJECT_ROOT = Path(__file__).resolve().parent.parent
+    BASE_DIR = os.getenv("MEDCHAT_RAG_BASE_DIR", str(PROJECT_ROOT))
     DATA_DIR = f"{BASE_DIR}/data"
     CHUNK_FILES = [
         f"{DATA_DIR}/BoYTe200_v3.json",
@@ -16,14 +18,8 @@ class Config:
     # EMBEDDING_MODEL = "bkai-foundation-models/vietnamese-bi-encoder"
     # EMBEDDING_MODEL = "VoVanPhuc/sup-SimCSE-VietNamese-phobert-base"
     
-    # GOOGLE API KEY - Thay bằng key của bạn từ https://makersuite.google.com/app/apikey
-    GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', 'YOUR_API_KEY_HERE')
+    GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY', '')
     
     LLM_MODEL = "gemini-2.5-flash" 
     K_RETRIEVE = 3 # Số Document muốn truy
     TEMPERATURE = 0 
-
-"""
-AIzaSyABvC8mPrwa0Kgy08mFFzkyeh2_N-Bb3lY
-AIzaSyDJqr4nKDrcfmmuKOdDCHkXRvKA48htD6o
-"""
