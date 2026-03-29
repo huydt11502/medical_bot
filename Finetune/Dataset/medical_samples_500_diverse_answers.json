@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: đỏ mắt nhẹ, ho đờm ít, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: nôn nhẹ, đỏ mắt nhẹ, ho nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: đỏ mắt nhẹ, chướng bụng, đầy hơi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: nghẹt mũi, ngứa nhẹ, quấy khóc.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: nôn nhẹ, ho khan, mệt nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: đỏ mắt nhẹ, mệt nhẹ, khàn tiếng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: đau bụng nhẹ, sốt nhẹ, quấy khóc.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: biếng ăn, quấy khóc, chướng bụng.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi họng. Triệu chứng: nôn nhẹ, quấy khóc, sốt nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: khàn tiếng, chướng bụng, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: khàn tiếng, đi phân lỏng ít, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: ngứa nhẹ, chướng bụng, biếng ăn.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: khó chịu, quấy khóc, ho đờm ít.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: khó chịu, ho đờm ít, chướng bụng.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: sổ mũi, sốt nhẹ, nghẹt mũi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: nghẹt mũi, sổ mũi, ho đờm ít.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: sổ mũi, khàn tiếng, ngứa nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: biếng ăn, sổ mũi, ho đờm ít.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: mệt nhẹ, nôn nhẹ, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: đau bụng nhẹ, khó ngủ, khàn tiếng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: đau bụng nhẹ, nôn nhẹ, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: khó chịu, chướng bụng, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: khàn tiếng, đầy hơi, sổ mũi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: nôn nhẹ, khàn tiếng, sốt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: ho đờm ít, khó ngủ, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: quấy khóc, nghẹt mũi, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: ngứa nhẹ, đỏ mắt nhẹ, hắt hơi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: biếng ăn, hắt hơi, khàn tiếng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: sổ mũi, khó chịu, biếng ăn.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: khàn tiếng, quấy khóc, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: quấy khóc, đau bụng nhẹ, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: ngứa nhẹ, sổ mũi, ho nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: ngứa nhẹ, quấy khóc, chướng bụng.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: đau bụng nhẹ, nôn nhẹ, sốt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: sốt nhẹ, hắt hơi, ho nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: quấy khóc, mệt nhẹ, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi nhẹ. Triệu chứng: hắt hơi, đỏ mắt nhẹ, sốt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: đỏ mắt nhẹ, chướng bụng, quấy khóc.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: khó chịu, quấy khóc, sổ mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: ngứa nhẹ, khàn tiếng, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: sổ mũi, quấy khóc, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: mệt nhẹ, đỏ mắt nhẹ, ho khan.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: khó chịu, đỏ mắt nhẹ, nôn nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi họng. Triệu chứng: ngứa nhẹ, khàn tiếng, sốt nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: sốt nhẹ, khó ngủ, ho đờm ít.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: mệt nhẹ, sốt nhẹ, hắt hơi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: ngứa nhẹ, khàn tiếng, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: mệt nhẹ, sổ mũi, ngứa nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: đỏ mắt nhẹ, nôn nhẹ, sổ mũi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: sốt nhẹ, đi phân lỏng ít, đỏ mắt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: biếng ăn, hắt hơi, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: sốt nhẹ, ho khan, nghẹt mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: ho nhẹ, sốt nhẹ, nôn nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: quấy khóc, khó ngủ, khàn tiếng.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: khó ngủ, ho khan, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: khó ngủ, biếng ăn, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: nôn nhẹ, đi phân lỏng ít, khó chịu.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn trớ sinh lý. Triệu chứng: biếng ăn, mệt nhẹ, ho khan.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: ho đờm ít, quấy khóc, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: ho khan, khó chịu, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: quấy khóc, ho nhẹ, chướng bụng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: hắt hơi, đỏ mắt nhẹ, chướng bụng.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: khó chịu, biếng ăn, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: khó chịu, khàn tiếng, nghẹt mũi.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: hắt hơi, khàn tiếng, chướng bụng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: ngứa nhẹ, đầy hơi, nghẹt mũi.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: mệt nhẹ, ho đờm ít, biếng ăn.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: đỏ mắt nhẹ, khó chịu, đầy hơi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: đi phân lỏng ít, chướng bụng, khó ngủ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: khàn tiếng, nôn nhẹ, sốt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: khàn tiếng, đi phân lỏng ít, ho đờm ít.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: ho khan, hắt hơi, nôn nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: ho nhẹ, ngứa nhẹ, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: đau bụng nhẹ, khó chịu, nghẹt mũi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: ngứa nhẹ, chướng bụng, sổ mũi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: ngứa nhẹ, nghẹt mũi, đi phân lỏng ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: ho khan, ngứa nhẹ, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: đỏ mắt nhẹ, đi phân lỏng ít, hắt hơi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: hắt hơi, chướng bụng, biếng ăn.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: ho đờm ít, đầy hơi, nôn nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: sốt nhẹ, biếng ăn, hắt hơi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: khó chịu, sổ mũi, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: sốt nhẹ, khàn tiếng, khó chịu.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: đỏ mắt nhẹ, biếng ăn, mệt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: nghẹt mũi, khó ngủ, chướng bụng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: đầy hơi, mệt nhẹ, khó chịu.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: sốt nhẹ, khàn tiếng, chướng bụng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: quấy khóc, ngứa nhẹ, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: nghẹt mũi, ho khan, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: quấy khóc, ngứa nhẹ, khàn tiếng.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: đau bụng nhẹ, ho đờm ít, đi phân lỏng ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: hắt hơi, đau bụng nhẹ, đỏ mắt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: khó ngủ, ho khan, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: ngứa nhẹ, chướng bụng, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: sốt nhẹ, đi phân lỏng ít, ho đờm ít.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: quấy khóc, hắt hơi, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: khàn tiếng, đầy hơi, mệt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: mệt nhẹ, quấy khóc, biếng ăn.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: nôn nhẹ, mệt nhẹ, ho nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: nôn nhẹ, đỏ mắt nhẹ, ngứa nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi nhẹ. Triệu chứng: ho nhẹ, đau bụng nhẹ, đầy hơi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: khó ngủ, đi phân lỏng ít, sổ mũi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: đầy hơi, đau bụng nhẹ, ho khan.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: sổ mũi, ho đờm ít, khó chịu.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: ho đờm ít, ho khan, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: chướng bụng, nôn nhẹ, khó ngủ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: ho khan, đau bụng nhẹ, ho nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nghẹt mũi nhẹ. Triệu chứng: đầy hơi, sốt nhẹ, ngứa nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: sốt nhẹ, ho đờm ít, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: đau bụng nhẹ, sổ mũi, ho đờm ít.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: đỏ mắt nhẹ, ho đờm ít, ho khan.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn trớ sinh lý. Triệu chứng: chướng bụng, khó ngủ, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: ho đờm ít, nghẹt mũi, quấy khóc.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: khàn tiếng, ho đờm ít, nôn nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: mệt nhẹ, hắt hơi, đầy hơi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: sổ mũi, ngứa nhẹ, ho nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: nghẹt mũi, biếng ăn, khó chịu.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: đỏ mắt nhẹ, khó ngủ, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: chướng bụng, ngứa nhẹ, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: quấy khóc, đi phân lỏng ít, chướng bụng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: quấy khóc, ngứa nhẹ, khàn tiếng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: ngứa nhẹ, sổ mũi, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: khàn tiếng, đi phân lỏng ít, chướng bụng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: sổ mũi, khó chịu, chướng bụng.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: đi phân lỏng ít, ngứa nhẹ, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: đi phân lỏng ít, khó ngủ, ngứa nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: ho nhẹ, đau bụng nhẹ, đầy hơi.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: đỏ mắt nhẹ, đi phân lỏng ít, sổ mũi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: ho khan, chướng bụng, hắt hơi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: sốt nhẹ, nôn nhẹ, quấy khóc.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: đi phân lỏng ít, sổ mũi, biếng ăn.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: khó ngủ, ho khan, ngứa nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: ho đờm ít, hắt hơi, khàn tiếng.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: nôn nhẹ, đầy hơi, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: sổ mũi, quấy khóc, nghẹt mũi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: đau bụng nhẹ, khàn tiếng, đầy hơi.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: chướng bụng, sổ mũi, ngứa nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: mệt nhẹ, khó ngủ, khàn tiếng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: chướng bụng, ho đờm ít, hắt hơi.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: đi phân lỏng ít, khàn tiếng, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: chướng bụng, đầy hơi, nghẹt mũi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: ngứa nhẹ, hắt hơi, khó chịu.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: nôn nhẹ, hắt hơi, đi phân lỏng ít.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: sổ mũi, ho nhẹ, hắt hơi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: ho khan, mệt nhẹ, khàn tiếng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: khó ngủ, ngứa nhẹ, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi họng. Triệu chứng: nghẹt mũi, khó chịu, sốt nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: ho nhẹ, sốt nhẹ, khó chịu.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: ho đờm ít, chướng bụng, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: khó chịu, ngứa nhẹ, đầy hơi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: ho nhẹ, khàn tiếng, ho đờm ít.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: hắt hơi, ho nhẹ, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: nghẹt mũi, quấy khóc, đi phân lỏng ít.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: hắt hơi, nôn nhẹ, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: khó ngủ, khàn tiếng, mệt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: ho đờm ít, đầy hơi, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: ho khan, quấy khóc, nôn nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: mệt nhẹ, sốt nhẹ, khàn tiếng.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: mệt nhẹ, đi phân lỏng ít, ho nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: khó ngủ, khó chịu, quấy khóc.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: khó chịu, đau bụng nhẹ, ho khan.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: khàn tiếng, ho nhẹ, đầy hơi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: hắt hơi, biếng ăn, đau bụng nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: hắt hơi, sổ mũi, đau bụng nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: biếng ăn, ho khan, chướng bụng.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: ho đờm ít, đau bụng nhẹ, khó chịu.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: quấy khóc, nghẹt mũi, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: khàn tiếng, ho khan, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: ho đờm ít, nghẹt mũi, biếng ăn.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: nghẹt mũi, khàn tiếng, khó chịu.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: biếng ăn, đi phân lỏng ít, chướng bụng.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: sốt nhẹ, ngứa nhẹ, nghẹt mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: sốt nhẹ, biếng ăn, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: ho khan, đi phân lỏng ít, nôn nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: khàn tiếng, nôn nhẹ, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: đi phân lỏng ít, quấy khóc, khó ngủ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: ngứa nhẹ, đi phân lỏng ít, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: ngứa nhẹ, mệt nhẹ, khó ngủ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: ho nhẹ, biếng ăn, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: đi phân lỏng ít, quấy khóc, ngứa nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: ho khan, quấy khóc, chướng bụng.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: đau bụng nhẹ, sổ mũi, ho đờm ít.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: chướng bụng, ho đờm ít, hắt hơi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: ho đờm ít, biếng ăn, sổ mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: khàn tiếng, sổ mũi, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: khàn tiếng, khó ngủ, chướng bụng.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: sổ mũi, nghẹt mũi, ho đờm ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: ngứa nhẹ, khó chịu, biếng ăn.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: ho đờm ít, sổ mũi, nghẹt mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: sốt nhẹ, đỏ mắt nhẹ, khó chịu.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: đầy hơi, ho khan, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: nôn nhẹ, ngứa nhẹ, chướng bụng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: nghẹt mũi, ngứa nhẹ, sổ mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: hắt hơi, quấy khóc, chướng bụng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: mệt nhẹ, ngứa nhẹ, ho nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: ngứa nhẹ, nghẹt mũi, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: sốt nhẹ, nghẹt mũi, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: hắt hơi, ngứa nhẹ, ho đờm ít.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: ho khan, khó ngủ, quấy khóc.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: đi phân lỏng ít, khó chịu, khó ngủ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: biếng ăn, đau bụng nhẹ, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: đi phân lỏng ít, biếng ăn, ngứa nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Dị ứng thời tiết. Triệu chứng: quấy khóc, nghẹt mũi, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: khàn tiếng, quấy khóc, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: đau bụng nhẹ, hắt hơi, ho nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: biếng ăn, nôn nhẹ, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: quấy khóc, đau bụng nhẹ, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: đau bụng nhẹ, mệt nhẹ, ho đờm ít.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: ngứa nhẹ, khó chịu, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: khàn tiếng, nôn nhẹ, sổ mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: nghẹt mũi, khàn tiếng, khó ngủ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: ho khan, ho nhẹ, sốt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: sổ mũi, hắt hơi, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: nôn nhẹ, đỏ mắt nhẹ, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: nôn nhẹ, ngứa nhẹ, khó ngủ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: ngứa nhẹ, nghẹt mũi, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: khàn tiếng, đi phân lỏng ít, khó chịu.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Dị ứng thời tiết. Triệu chứng: khó chịu, đỏ mắt nhẹ, khó ngủ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: sổ mũi, ho khan, chướng bụng.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: ho khan, hắt hơi, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: đau bụng nhẹ, quấy khóc, chướng bụng.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: nghẹt mũi, mệt nhẹ, biếng ăn.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nghẹt mũi nhẹ. Triệu chứng: sốt nhẹ, ho nhẹ, hắt hơi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: nôn nhẹ, ho đờm ít, mệt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: sốt nhẹ, chướng bụng, mệt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nghẹt mũi nhẹ. Triệu chứng: chướng bụng, mệt nhẹ, khó ngủ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: hắt hơi, đỏ mắt nhẹ, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Dị ứng thời tiết. Triệu chứng: đau bụng nhẹ, đi phân lỏng ít, sốt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: hắt hơi, đau bụng nhẹ, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: hắt hơi, ngứa nhẹ, nôn nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: hắt hơi, đi phân lỏng ít, đầy hơi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: sốt nhẹ, mệt nhẹ, khó ngủ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: mệt nhẹ, hắt hơi, sổ mũi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: ho khan, khàn tiếng, chướng bụng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: ngứa nhẹ, nôn nhẹ, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: khàn tiếng, chướng bụng, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: mệt nhẹ, chướng bụng, khó chịu.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: ho đờm ít, đau bụng nhẹ, quấy khóc.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: đầy hơi, ho khan, nghẹt mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: biếng ăn, đỏ mắt nhẹ, chướng bụng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: khàn tiếng, sổ mũi, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: sốt nhẹ, nôn nhẹ, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: hắt hơi, ho nhẹ, nghẹt mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: ngứa nhẹ, đi phân lỏng ít, đầy hơi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: quấy khóc, ho nhẹ, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: sổ mũi, quấy khóc, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: chướng bụng, đầy hơi, ho đờm ít.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: ngứa nhẹ, khàn tiếng, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: khàn tiếng, chướng bụng, khó chịu.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: đi phân lỏng ít, quấy khóc, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: đi phân lỏng ít, ho nhẹ, biếng ăn.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: sổ mũi, khàn tiếng, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: nôn nhẹ, đi phân lỏng ít, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: khó chịu, đầy hơi, sổ mũi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: ngứa nhẹ, nghẹt mũi, sổ mũi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: hắt hơi, ho nhẹ, chướng bụng.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: đi phân lỏng ít, biếng ăn, khàn tiếng.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: khó ngủ, mệt nhẹ, ho đờm ít.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: mệt nhẹ, đi phân lỏng ít, ngứa nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: chướng bụng, đau bụng nhẹ, đầy hơi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: ho khan, sổ mũi, quấy khóc.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Dị ứng thời tiết. Triệu chứng: ngứa nhẹ, biếng ăn, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: ho nhẹ, đi phân lỏng ít, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: ho đờm ít, đau bụng nhẹ, biếng ăn.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: khàn tiếng, sổ mũi, ho đờm ít.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: ho đờm ít, đỏ mắt nhẹ, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: đỏ mắt nhẹ, sốt nhẹ, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: biếng ăn, đầy hơi, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: ngứa nhẹ, đau bụng nhẹ, sổ mũi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: ngứa nhẹ, khó chịu, ho khan.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: nghẹt mũi, đỏ mắt nhẹ, khó chịu.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: quấy khóc, đầy hơi, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: khàn tiếng, khó ngủ, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: đau bụng nhẹ, khó chịu, nôn nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: ho đờm ít, chướng bụng, biếng ăn.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: khàn tiếng, ngứa nhẹ, ho khan.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: quấy khóc, khó ngủ, khàn tiếng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: khàn tiếng, nghẹt mũi, đau bụng nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: khàn tiếng, biếng ăn, hắt hơi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: ngứa nhẹ, nghẹt mũi, ho khan.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: khàn tiếng, sốt nhẹ, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: nôn nhẹ, hắt hơi, ngứa nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: đi phân lỏng ít, nôn nhẹ, đau bụng nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: sốt nhẹ, đỏ mắt nhẹ, đi phân lỏng ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: chướng bụng, biếng ăn, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: khó ngủ, hắt hơi, khàn tiếng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: mệt nhẹ, khó chịu, sổ mũi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: khó chịu, đỏ mắt nhẹ, đầy hơi.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: sốt nhẹ, khó ngủ, biếng ăn.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: ho nhẹ, sổ mũi, nôn nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: hắt hơi, quấy khóc, đầy hơi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: khó ngủ, ho khan, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: nôn nhẹ, hắt hơi, quấy khóc.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: nôn nhẹ, sốt nhẹ, khó chịu.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: nghẹt mũi, chướng bụng, khó ngủ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: sốt nhẹ, mệt nhẹ, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: đau bụng nhẹ, khó chịu, khàn tiếng.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: đi phân lỏng ít, biếng ăn, khó chịu.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: mệt nhẹ, biếng ăn, sốt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: đi phân lỏng ít, ho đờm ít, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: ho khan, khó ngủ, hắt hơi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: khó chịu, khàn tiếng, chướng bụng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: quấy khóc, sốt nhẹ, chướng bụng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: sổ mũi, khàn tiếng, khó ngủ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: biếng ăn, khó ngủ, nôn nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: ngứa nhẹ, nghẹt mũi, khàn tiếng.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: đỏ mắt nhẹ, ho nhẹ, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: khó chịu, biếng ăn, quấy khóc.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: khó chịu, khàn tiếng, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: nghẹt mũi, ho khan, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: mệt nhẹ, sổ mũi, quấy khóc.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: ngứa nhẹ, khó ngủ, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: hắt hơi, ho khan, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: chướng bụng, quấy khóc, ho khan.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn trớ sinh lý. Triệu chứng: chướng bụng, khàn tiếng, sổ mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: đi phân lỏng ít, khó chịu, nghẹt mũi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: khó chịu, sốt nhẹ, đầy hơi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: sốt nhẹ, khó chịu, khàn tiếng.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: nghẹt mũi, khó ngủ, đỏ mắt nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: khó chịu, quấy khóc, chướng bụng.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: ho nhẹ, sốt nhẹ, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: đau bụng nhẹ, chướng bụng, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: sốt nhẹ, sổ mũi, ngứa nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: hắt hơi, đi phân lỏng ít, nghẹt mũi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: nôn nhẹ, ho khan, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: mệt nhẹ, ho nhẹ, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: khó ngủ, nghẹt mũi, khàn tiếng.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: sổ mũi, ho khan, biếng ăn.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: đỏ mắt nhẹ, khó ngủ, quấy khóc.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: đỏ mắt nhẹ, đau bụng nhẹ, mệt nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: chướng bụng, nghẹt mũi, khó ngủ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: khó chịu, biếng ăn, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: khó ngủ, quấy khóc, khàn tiếng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: hắt hơi, khàn tiếng, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: khàn tiếng, đầy hơi, sổ mũi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: chướng bụng, đi phân lỏng ít, khàn tiếng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: nôn nhẹ, quấy khóc, sổ mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: khó chịu, đau bụng nhẹ, nghẹt mũi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: khó ngủ, sổ mũi, đầy hơi.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: đau bụng nhẹ, khó chịu, hắt hơi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: sốt nhẹ, nghẹt mũi, khàn tiếng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: khàn tiếng, nghẹt mũi, ho nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: hắt hơi, đi phân lỏng ít, ho khan.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: hắt hơi, quấy khóc, đi phân lỏng ít.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: quấy khóc, khó ngủ, ho đờm ít.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chướng bụng nhẹ. Triệu chứng: đỏ mắt nhẹ, hắt hơi, đau bụng nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi nhẹ. Triệu chứng: nghẹt mũi, ngứa nhẹ, chướng bụng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: sốt nhẹ, sổ mũi, biếng ăn.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: chướng bụng, đau bụng nhẹ, khàn tiếng.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: chướng bụng, khó chịu, đau bụng nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: ho nhẹ, ngứa nhẹ, nôn nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Dị ứng thời tiết. Triệu chứng: ho nhẹ, đau bụng nhẹ, ho khan.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: đỏ mắt nhẹ, sốt nhẹ, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: nghẹt mũi, ho khan, quấy khóc.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: đầy hơi, sổ mũi, chướng bụng.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: sốt nhẹ, khó ngủ, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: ho nhẹ, ngứa nhẹ, ho khan.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: ho đờm ít, mệt nhẹ, đầy hơi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nghẹt mũi nhẹ. Triệu chứng: mệt nhẹ, biếng ăn, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: ho đờm ít, mệt nhẹ, đau bụng nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: nghẹt mũi, nôn nhẹ, sổ mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: khó ngủ, ngứa nhẹ, khàn tiếng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: sốt nhẹ, đỏ mắt nhẹ, khó ngủ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: sốt nhẹ, quấy khóc, ho khan.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: mệt nhẹ, sổ mũi, chướng bụng.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: đỏ mắt nhẹ, ngứa nhẹ, đi phân lỏng ít.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu khi mọc răng. Triệu chứng: ngứa nhẹ, sốt nhẹ, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: chướng bụng, mệt nhẹ, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: ho nhẹ, mệt nhẹ, khàn tiếng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: ho khan, khó chịu, ngứa nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: hắt hơi, nghẹt mũi, khàn tiếng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: khó chịu, chướng bụng, sổ mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nghẹt mũi nhẹ. Triệu chứng: ngứa nhẹ, quấy khóc, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi họng. Triệu chứng: sốt nhẹ, khó chịu, khàn tiếng.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: ho nhẹ, nghẹt mũi, hắt hơi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: đau bụng nhẹ, quấy khóc, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: ho đờm ít, sốt nhẹ, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: nghẹt mũi, đỏ mắt nhẹ, mệt nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khàn tiếng nhẹ. Triệu chứng: đi phân lỏng ít, đau bụng nhẹ, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: hắt hơi, đỏ mắt nhẹ, mệt nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Rối loạn tiêu hoá nhẹ. Triệu chứng: khó chịu, sốt nhẹ, chướng bụng.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: sổ mũi, chướng bụng, hắt hơi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: khó ngủ, chướng bụng, biếng ăn.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: mệt nhẹ, chướng bụng, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm da cơ địa nhẹ. Triệu chứng: nôn nhẹ, đỏ mắt nhẹ, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: nôn nhẹ, khó ngủ, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: ho khan, hắt hơi, ho đờm ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: chướng bụng, sổ mũi, khàn tiếng.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: sốt nhẹ, đi phân lỏng ít, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: ho nhẹ, sốt nhẹ, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: mệt nhẹ, sốt nhẹ, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: hắt hơi, chướng bụng, biếng ăn.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi nhẹ. Triệu chứng: đi phân lỏng ít, sốt nhẹ, ho khan.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: đầy hơi, sổ mũi, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: khó ngủ, ho nhẹ, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: mệt nhẹ, đỏ mắt nhẹ, khó chịu.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: quấy khóc, biếng ăn, ho khan.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: nôn nhẹ, nghẹt mũi, chướng bụng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: đỏ mắt nhẹ, ho nhẹ, sốt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: sổ mũi, nôn nhẹ, biếng ăn.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: chướng bụng, quấy khóc, đầy hơi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: ho đờm ít, ngứa nhẹ, biếng ăn.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: chướng bụng, sổ mũi, khó ngủ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: đi phân lỏng ít, hắt hơi, khó ngủ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: ho đờm ít, sốt nhẹ, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: chướng bụng, ho nhẹ, hắt hơi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: đi phân lỏng ít, khó chịu, khó ngủ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi nhẹ. Triệu chứng: mệt nhẹ, quấy khóc, hắt hơi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm họng nhẹ. Triệu chứng: đau bụng nhẹ, sổ mũi, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm kết mạc nhẹ. Triệu chứng: đỏ mắt nhẹ, mệt nhẹ, khó chịu.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Dị ứng thời tiết. Triệu chứng: mệt nhẹ, khàn tiếng, đỏ mắt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: ho đờm ít, sốt nhẹ, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: đỏ mắt nhẹ, sốt nhẹ, khó chịu.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: khàn tiếng, sốt nhẹ, hắt hơi.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: sổ mũi, nôn nhẹ, khàn tiếng.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm xoang nhẹ. Triệu chứng: khó chịu, chướng bụng, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: quấy khóc, sốt nhẹ, nghẹt mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: khàn tiếng, đầy hơi, ho nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: khàn tiếng, biếng ăn, ngứa nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: chướng bụng, khàn tiếng, sổ mũi.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: ho nhẹ, sốt nhẹ, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: chướng bụng, đau bụng nhẹ, hắt hơi.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: đau bụng nhẹ, hắt hơi, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: chướng bụng, khó ngủ, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: mệt nhẹ, khó chịu, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: ho đờm ít, hắt hơi, chướng bụng.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: đi phân lỏng ít, biếng ăn, đỏ mắt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: đỏ mắt nhẹ, đi phân lỏng ít, biếng ăn.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: ho nhẹ, sổ mũi, nghẹt mũi.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: sổ mũi, ngứa nhẹ, ho khan.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: ho khan, chướng bụng, quấy khóc.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: chướng bụng, sổ mũi, hắt hơi.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: khàn tiếng, chướng bụng, ngứa nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: nghẹt mũi, mệt nhẹ, ho đờm ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: khó chịu, ho đờm ít, chướng bụng.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn trớ sinh lý. Triệu chứng: quấy khóc, hắt hơi, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: ho khan, hắt hơi, sốt nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chảy nước mắt nhẹ. Triệu chứng: hắt hơi, ngứa nhẹ, sốt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: nghẹt mũi, mệt nhẹ, khó chịu.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mụn sữa. Triệu chứng: chướng bụng, biếng ăn, nghẹt mũi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: mệt nhẹ, ho khan, chướng bụng.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nghẹt mũi nhẹ. Triệu chứng: đau bụng nhẹ, quấy khóc, hắt hơi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: nôn nhẹ, đau bụng nhẹ, mệt nhẹ.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: quấy khóc, sốt nhẹ, đầy hơi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: khàn tiếng, khó ngủ, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: sổ mũi, khàn tiếng, đầy hơi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm mũi dị ứng. Triệu chứng: sốt nhẹ, ho nhẹ, đầy hơi.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: sổ mũi, khó chịu, hắt hơi.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: khó ngủ, mệt nhẹ, biếng ăn.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn trớ sinh lý. Triệu chứng: sốt nhẹ, đầy hơi, biếng ăn.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Mệt mỏi thoáng qua. Triệu chứng: quấy khóc, sốt nhẹ, đau bụng nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi theo mùa. Triệu chứng: biếng ăn, nghẹt mũi, nôn nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: biếng ăn, sổ mũi, ho nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Chàm nhẹ. Triệu chứng: mệt nhẹ, nghẹt mũi, khó chịu.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: hắt hơi, quấy khóc, nôn nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm môi nhẹ. Triệu chứng: mệt nhẹ, chướng bụng, đi phân lỏng ít.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: quấy khóc, khàn tiếng, chướng bụng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho đờm nhẹ. Triệu chứng: đỏ mắt nhẹ, đau bụng nhẹ, đi phân lỏng ít.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng nhẹ sau ăn. Triệu chứng: khó ngủ, ngứa nhẹ, biếng ăn.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: biếng ăn, ho nhẹ, ho đờm ít.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau cơ nhẹ. Triệu chứng: ho khan, nghẹt mũi, nôn nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: khó chịu, sốt nhẹ, khó ngủ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Say tàu xe nhẹ. Triệu chứng: nôn nhẹ, khó chịu, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: nghẹt mũi, đi phân lỏng ít, sốt nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Da khô. Triệu chứng: biếng ăn, chướng bụng, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: ho nhẹ, khó chịu, biếng ăn.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: đầy hơi, quấy khóc, biếng ăn.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn trớ sinh lý. Triệu chứng: đi phân lỏng ít, đầy hơi, nghẹt mũi.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Sốt nhẹ do siêu vi. Triệu chứng: ho đờm ít, đầy hơi, nôn nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: quấy khóc, sổ mũi, đau bụng nhẹ.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: ho khan, đi phân lỏng ít, khó ngủ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: sốt nhẹ, ho khan, ho đờm ít.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mề đay nhẹ. Triệu chứng: đau bụng nhẹ, biếng ăn, mệt nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: khó chịu, đi phân lỏng ít, đỏ mắt nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: quấy khóc, ho khan, đau bụng nhẹ.",
+    "answer": "Phụ huynh nên để trẻ nghỉ ngơi và chú ý thay đổi bất thường."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: ho đờm ít, khàn tiếng, sổ mũi.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho khan nhẹ. Triệu chứng: đau bụng nhẹ, sốt nhẹ, đi phân lỏng ít.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó chịu không rõ nguyên nhân. Triệu chứng: quấy khóc, chướng bụng, ngứa nhẹ.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hắt hơi nhiều. Triệu chứng: khó ngủ, hắt hơi, ho khan.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: đầy hơi, ho đờm ít, biếng ăn.",
+    "answer": "Khuyến nghị phụ huynh theo dõi trạng thái của trẻ và cho trẻ nghỉ ngơi."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hăm tã. Triệu chứng: biếng ăn, hắt hơi, sốt nhẹ.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nổi mẩn nhẹ. Triệu chứng: đau bụng nhẹ, ngứa nhẹ, chướng bụng.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Hôi miệng nhẹ. Triệu chứng: mệt nhẹ, đi phân lỏng ít, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi nhẹ. Triệu chứng: quấy khóc, đau bụng nhẹ, khàn tiếng.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Cảm lạnh thông thường. Triệu chứng: đỏ mắt nhẹ, sốt nhẹ, ho đờm ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nôn nhẹ thoáng qua. Triệu chứng: khó chịu, đau bụng nhẹ, ho nhẹ.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Loét miệng nhẹ. Triệu chứng: khó chịu, ngứa nhẹ, quấy khóc.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Khó ngủ. Triệu chứng: khó chịu, khàn tiếng, hắt hơi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Bé cáu gắt. Triệu chứng: đỏ mắt nhẹ, sổ mũi, biếng ăn.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Tiêu chảy nhẹ. Triệu chứng: biếng ăn, đau bụng nhẹ, ho khan.",
+    "answer": "Gợi ý phụ huynh tạo môi trường thoải mái để trẻ hồi phục tốt hơn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm tai ngoài nhẹ. Triệu chứng: đi phân lỏng ít, khó chịu, hắt hơi.",
+    "answer": "Đề nghị phụ huynh theo dõi sát và đưa trẻ đi kiểm tra nếu biểu hiện kéo dài."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau đầu thoáng qua. Triệu chứng: khó ngủ, ho nhẹ, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ho do thay đổi thời tiết. Triệu chứng: khàn tiếng, quấy khóc, đau bụng nhẹ.",
+    "answer": "Khuyên phụ huynh giữ cho trẻ đủ nước và theo dõi triệu chứng cải thiện."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Nhiễm siêu vi đường hô hấp trên. Triệu chứng: sổ mũi, mệt nhẹ, khó ngủ.",
+    "answer": "Đề nghị phụ huynh quan sát phản ứng của trẻ và tìm tư vấn y tế nếu cần."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Viêm lợi mọc răng. Triệu chứng: sốt nhẹ, đi phân lỏng ít, đầy hơi.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Biếng ăn tạm thời. Triệu chứng: hắt hơi, sốt nhẹ, đau bụng nhẹ.",
+    "answer": "Đề nghị phụ huynh chú ý tình trạng chung của trẻ và đưa đi khám nếu triệu chứng không giảm."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Ngứa da nhẹ. Triệu chứng: đi phân lỏng ít, biếng ăn, chướng bụng.",
+    "answer": "Phụ huynh có thể giúp trẻ nghỉ ngơi và theo dõi thêm trong thời gian ngắn."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Quấy khóc nhẹ. Triệu chứng: chướng bụng, khàn tiếng, ngứa nhẹ.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đau bụng chức năng. Triệu chứng: khó chịu, hắt hơi, đi phân lỏng ít.",
+    "answer": "Khuyên phụ huynh giúp trẻ uống đủ nước và quan sát xem triệu chứng có giảm không."
+  },
+  {
+    "instruction": "Bạn là một bác sĩ có kinh nghiệm được huấn luyện để đưa ra gợi ý chăm sóc ban đầu cho trẻ em dựa trên những triệu chứng được cung cấp.",
+    "question": "Bệnh: Đầy bụng khó tiêu. Triệu chứng: biếng ăn, nghẹt mũi, ho đờm ít.",
+    "answer": "Khuyên phụ huynh hỗ trợ trẻ sinh hoạt nhẹ nhàng và theo dõi tiến triển."
+  }
+]
