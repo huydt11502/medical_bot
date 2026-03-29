@@ -73,9 +73,3 @@ python RAG/test/test_faiss_single.py
 python RAG/test/test_hybrid.py
 python RAG/test/test_rag_single.py
 ```
-
-## Notes for Recruiter/Reviewer
-
-- Retrieval is grounded on real guideline sources under `data/`.
-- Answer output includes top retrieved source snippets.
-- The module is designed as an end-to-end demo for production-style medical assistant workflows.
